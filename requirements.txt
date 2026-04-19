@@ -1,0 +1,7 @@
+streamlit
+pandas
+nltk
+transformers
+torch
+scipy
+tqdm
